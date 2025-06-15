@@ -38,9 +38,9 @@ An interactive system that allows users to:
    - Option 3: Launch full AirPointer system
 
 ## Controls (AirPointer Mode)
-- ???? Pinch: Left click
+- 🤌 Pinch: Left click
 - ✌️ Two fingers: Scroll
-- ???? Open palm: Lift pen (draw mode)
+- ✋ Open palm: Lift pen (draw mode)
 - Keyboard:
   - 'd': Toggle draw/pointer mode
   - 'c': Clear canvas (draw mode)
